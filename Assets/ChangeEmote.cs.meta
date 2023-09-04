@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7480dc01a60fed847b5bab158b65ac0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - annoyed: {fileID: 21300000, guid: f959329b071d2734c869931023b4249b, type: 3}
+  - blank: {fileID: 21300000, guid: d09a960a0aa95ce43b58ad59c92e50e8, type: 3}
+  - blush: {fileID: 21300000, guid: 03b37e70a1631a140a876e55b9ad7e85, type: 3}
+  - confused: {fileID: 21300000, guid: fe05c06e36b05ff4e9cd39b8e2d1ad51, type: 3}
+  - happy: {fileID: 21300000, guid: dd4484255a0faef4a8c215c23c8abd36, type: 3}
+  - huh: {fileID: 21300000, guid: 66e3b2e0ab2537149b128f2a0095b376, type: 3}
+  - laugh: {fileID: 21300000, guid: 0c4869ba0d2ee7f4ba3d4e8d122ace0a, type: 3}
+  - sad: {fileID: 21300000, guid: 48176e06c9bde95479e4d33d67f6314e, type: 3}
+  - surprised: {fileID: 21300000, guid: 05f790620f2e6bb4eaaefb3641aa6e82, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
